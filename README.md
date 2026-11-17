@@ -14,6 +14,25 @@ Whether you want to launch a property listing website, a real estate marketplace
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+**Property Details**
+
+![Property Details](screenshots/2-property.png)
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is a Property Listing Platform?
 
 A Property Listing Platform is a website or application that allows users to discover, publish, manage, and explore properties online.
@@ -377,20 +396,3 @@ Website: https://nayaprayog.com/
 © Naya Prayog Technologies. All rights reserved.
 
 This repository is a product and service showcase. It does not distribute proprietary application source code or grant an open-source license.
-
-<!-- screenshots -->
-## Screenshots
-
-**Home**
-
-![Home](screenshots/1-home.png)
-
-**Property Details**
-
-![Property Details](screenshots/2-property.png)
-
-<table>
-  <tr>
-    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
-  </tr>
-</table>
